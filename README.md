@@ -1,2 +1,3 @@
-- 안녕하세요. 변경연입니다.
-- Node.js를 이용한 Backend를 개발하고 있습니다.
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kyungyeon%20Byun&fontSize=90)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyung-yeon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
