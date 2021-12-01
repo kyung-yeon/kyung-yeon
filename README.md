@@ -1,3 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kyungyeon%20Byun&fontSize=90)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyung-yeon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 안녕하세요. 변경연입니다.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyung-yeon&hide=html&layout=compact)](https://kyungyeon.dev)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyung-yeon&show_icons=true&theme=radical)
